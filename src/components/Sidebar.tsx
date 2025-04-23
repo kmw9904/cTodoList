@@ -13,7 +13,7 @@ export default function Sidebar() {
         height={100}
         className="rounded-full"
       />
-      <h2 className="text-2xl font-semibold">김명원</h2>
+      <h2 className="text-2xl font-semibold">🥊 원투커플</h2>
 
       <div className="">💑 시작일: 2023.09.25</div>
 
